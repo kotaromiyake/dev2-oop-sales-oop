@@ -17,3 +17,4 @@ elseif(isset($_POST['edit_product']))
 
    $product_obj->payProduct($product_id,$buy_quantity);
 }
+// something is changed
